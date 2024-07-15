@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "洛克人"
+title: "《洛克人》"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 * 洛克人9~10: 回归8bit画风
 * 洛克人11: 新作画风
 
-元祖同人
+元祖洛克人同人
 ======
 * 洛克人无限
 * 洛克人制造
