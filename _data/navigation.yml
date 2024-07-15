@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "出版物"
+  - title: "教育"
     url: /publications/
 
-  - title: "演讲"
+  - title: "数学&物理"
     url: /talks/    
 
-  - title: "教学"
+  - title: "密码学"
     url: /teaching/    
     
-  - title: "我的收藏"
+  - title: "编程"
     url: /portfolio/
         
-  - title: "博客帖子"
+  - title: "读书笔记"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "洛克人"
     url: /cv/
     
-  - title: "Guide"
+  - title: "类银河恶魔城游戏"
     url: /markdown/
