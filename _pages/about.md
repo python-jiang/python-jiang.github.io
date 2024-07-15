@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "白伟仝的博客"
+title: "白伟仝的主页"
 author_profile: true
 redirect_from: 
   - /about/
