@@ -1,23 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "《类银河恶魔城游戏》"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## T0
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
+* 空洞骑士
+* 奥日与黑暗森林
+* 奥日与萤火意志
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
