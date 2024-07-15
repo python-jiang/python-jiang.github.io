@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "洛克人"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+元祖洛克人
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 洛克人1~6: 经典8bit游戏，摇滚BGM
+* 洛克人7~8: 新主机尝试作品
+* 洛克人9~10: 回归8bit画风
+* 洛克人11: 新作画风
 
-Work experience
+元祖同人
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 洛克人无限
+* 洛克人制造
+* 洛克人关卡制作大赛
+* 洛克人SFR
+* 洛克人势力
+* 洛克人革命
+* 洛克人永恒
+* 洛克人Rock'n Roll
+* 超级洛克人3
+* 洛克人√-1
+* 洛克人的圣诞颂歌
+* 洛克人魔界村
+* 混合马里奥
   
-Skills
+元祖洛克人画风，其他形象
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 魔理沙的野望
+* 蓬莱山辉夜的野望
+* UdongeinX
+* 蔷薇十字小剑
+* 蔷薇十字小剑F
+* 投牌传说（睦月）
+* 重力回路
+* 虚拟无限计划
+* Super Danny
+* 安全帽
+* 星之卡比洛克人
+* 苍蓝雷霆
