@@ -1,0 +1,62 @@
+---
+title: "各种语言的复合函数"
+excerpt: "生成新对象，还是操作老对象<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+<table>
+    <thead>
+    <tr>
+        <th>语言</th>
+        <th>普通复合示例</th>
+        <th>高阶函数示例</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>数学</td>
+        <td>f(g(a,b),h(x,y,z))</td>
+        <td>F(ω)=∫f(t)e^-iωtdt</td>
+    </tr>
+    <tr>
+        <td>C</td>
+        <td>f(g(a,b),h(x,y,z))</td>
+        <td>int f(int (*g)(int, int), int a, int b){...}</td>
+    </tr>
+    <tr>
+        <td>C++</td>
+        <td>可以仿C，也可以仿Java</td>
+        <td>sort(pointer, pointer+len, cmp);</td>
+    </tr>
+    <tr>
+        <td>Java</td>
+        <td>wrapper.getPrimaryKey().setId(666);</td>
+        <td>list.stream().filter(~).map(~).sorted(~).collect(~);</td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>f(g(a,b),h(x,y,z))</td>
+        <td>new Promise(~).then(~).then(~).then(~).catch(~);</td>
+    </tr>
+    <tr>
+        <td>Python3</td>
+        <td>生成新对象，还是操作老对象</td>
+        <td>前者适于嵌套括号，后者适于连续点操作</td>
+    </tr>
+    <tr>
+        <td>SQL</td>
+        <td>select x from (select x,y from MyTable);</td>
+        <td>select distinct(x) from MyTable order by x;</td>
+    </tr>
+    <tr>
+        <td>bash</td>
+        <td>cat MyFile.txt | uniq | sort</td>
+        <td>命令行编程，单数据流通过管道，不要奢求多元参数灵活性</td>
+    </tr>
+    <tr>
+        <td>scheme</td>
+        <td>(f (g a b) (h x y z))</td>
+        <td>(f g h)</td>
+    </tr>
+    </tbody>
+</table>
