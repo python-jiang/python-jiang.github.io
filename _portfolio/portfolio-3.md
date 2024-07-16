@@ -12,4 +12,5 @@ collection: portfolio
 | JavaScript |    console.log("HelloWorld");     | 
 |  Python3   |       print("HelloWorld");        | 
 |    SQL     |       select "HelloWorld";        |
-|    bash    |        echo "HelloWorld";         |
+|    bash    |         echo "HelloWorld"         |
+|   scheme   |     (display "Hello, World")      |
