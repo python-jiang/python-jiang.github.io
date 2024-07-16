@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "白伟仝的主页"
+title: "白伟仝的主页（施工中）"
 author_profile: true
 redirect_from: 
   - /about/
