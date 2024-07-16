@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "全栈web开发"
+excerpt: "Vue+SpringBoot+MySQL<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+|       |    Vue     | SpringBoot |  MySQL  |
+|:-----:|:----------:|:----------:|:-------:|
+| 编程语言  | JavaScript |    Java    |   SQL   |
+| 包管理工具 |    npm     |   maven    |    -    |
+|  引擎   |  Node.js   |  openJDK   | InnoDB  |
+| 开发环境  |   VSCode   |    IDEA    | DBeaver |
