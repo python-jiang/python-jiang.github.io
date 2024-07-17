@@ -14,13 +14,13 @@ redirect_from:
 * 洛克人1~6: 经典8bit游戏，摇滚BGM
 * 洛克人7~8: 新主机尝试作品
 * 洛克人9~10: 回归8bit画风
-* 洛克人11: 新作画风
+* [洛克人11](https://store.steampowered.com/app/742300/Mega_Man_11/): 新作画风
 
 元祖洛克人同人
 ======
-* 洛克人无限
-* 洛克人制造
-* 洛克人关卡制作大赛
+* [洛克人无限](https://megaphilx.com/index.php/home/games/mega-man-unlimited/)
+* [洛克人制造](https://megamanmaker.com/)
+* [洛克人关卡制作大赛](https://www.magmmlcontest.com/games.php)
 * 洛克人SFR
 * 洛克人势力
 * 洛克人革命
