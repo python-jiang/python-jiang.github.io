@@ -42,7 +42,7 @@ redirect_from:
 * 投牌传说（睦月）
 * 重力回路
 * 虚拟无限计划
-* Super Danny
+* SuperDanny
 * 安全帽
 * 星之卡比洛克人
 * 苍蓝雷霆
