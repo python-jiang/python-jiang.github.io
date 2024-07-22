@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-前端Vue、后端SpringBoot、数据库Vue部署到 [我的腾讯云](http://140.143.170.59:5173/bwt). 华为云后端SpringBoot通过Feign访问腾讯云SpringBoot接口 [我的华为云](http://123.249.78.153:8082/huaweiB-query-tencentA). This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/python-jiang.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+前端Vue、后端SpringBoot、数据库Vue部署. 华为云后端SpringBoot通过Feign访问腾讯云SpringBoot接口 . This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/python-jiang.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
